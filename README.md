@@ -1,3 +1,4 @@
+[![Build Status](https://rankankankan.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/rankankan.mslearn-tailspin-spacegame-web?branchName=main)](https://rankankankan.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=3&branchName=main)
 
 # Contributing ggggggggggg
 
